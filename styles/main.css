@@ -7,3 +7,14 @@
 }
 .pt{
     padding-top: 60px;
+}
+.card-size{
+    min-height: 250px;
+    
+}
+.card__button-container {
+   position: absolute;
+   bottom: 1rem;
+   left: 0;
+   right: 0;
+ }
