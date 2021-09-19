@@ -6,7 +6,7 @@
     object-fit: cover;
 }
 .pt{
-    padding-top: 60px;
+    padding-top: 80px;
 }
 .card-size{
     min-height: 250px;
@@ -14,7 +14,13 @@
 }
 .card__button-container {
    position: absolute;
-   bottom: 1rem;
+   bottom: 16px;
    left: 0;
    right: 0;
+ }
+ body{
+    font-family: 'Roboto Condensed', sans-serif;
+ }
+ h2{
+    font-family: 'Bebas Neue', cursive;
  }
